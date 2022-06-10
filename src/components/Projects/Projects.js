@@ -29,9 +29,10 @@ function Projects() {
             <ProjectCard
               imgPath={Chat_logo}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              link="https://github.com/soumyajit4419/Chatify"
+              title="Random Chat"
+              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Chakra-UI. Have features which allows user for realtime messaging."
+              glink="https://github.com/Kirans05/frondEnd_chatApp"
+              nlink="https://random-chat-app-2022.netlify.app/"
             />
           </Col>
 
@@ -39,9 +40,10 @@ function Projects() {
             <ProjectCard
               imgPath={Diet_logo}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              link="https://github.com/soumyajit4419/Bits-0f-C0de"
+              title="Diet Suggestion"
+              description="Diet and nutrition app is a type of nutrition tracking app that helps users lose weight, be healthy, and get stronger."
+              glink="https://github.com/Kirans05/capstone_project_frontEnd_code"
+              nlink="https://bespoke-madeleine-c013f7.netlify.app/"
             />
           </Col>
 
@@ -49,9 +51,10 @@ function Projects() {
             <ProjectCard
               imgPath={Pizza_logo}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              link="https://github.com/soumyajit4419/Editor.io"
+              title="Pizza Booking"
+              description="The Popularity of food delivery apps is increasing presently as they offer usres to  quickly and conveniently ordering food directly to their home or office from their favourite restaurants"
+              glink="https://github.com/Kirans05/pizza-app-fron-end-2022"
+              nlink="https://pizza-app-2022.netlify.app/"
             />
           </Col>
 
@@ -59,9 +62,10 @@ function Projects() {
             <ProjectCard
               imgPath={Shoe_logo}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              link="https://github.com/soumyajit4419/Plant_AI"
+              title="Shoe Ecommerce Website"
+              description="This is your place for athletic and easygoing shoes for the entire family from many name brands. You’ll discover styles for ladies, men and children from Top Most brands"
+              glink="https://github.com/Kirans05/shoe-app-front-end"
+              nlink="https://shoe-app-2022.netlify.app/"
             />
           </Col>
 
