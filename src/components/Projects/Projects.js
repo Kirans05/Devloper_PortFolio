@@ -31,8 +31,8 @@ function Projects() {
               isBlog={false}
               title="Random Chat"
               description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Chakra-UI. Have features which allows user for realtime messaging."
-              glink="https://github.com/Kirans05/frondEnd_chatApp"
-              nlink="https://random-chat-app-2022.netlify.app/"
+              glink="https://github.com/Kirans05/Random-chatApp-FrontEnd"
+              nlink="https://random-chatapp.netlify.app/"
             />
           </Col>
 
@@ -42,8 +42,8 @@ function Projects() {
               isBlog={false}
               title="Diet Suggestion"
               description="Diet and nutrition app is a type of nutrition tracking app that helps users lose weight, be healthy, and get stronger."
-              glink="https://github.com/Kirans05/capstone_project_frontEnd_code"
-              nlink="https://bespoke-madeleine-c013f7.netlify.app/"
+              glink="https://github.com/Kirans05/diet-frontEnd"
+              nlink="https://diet-suggestion-2022.netlify.app/"
             />
           </Col>
 
@@ -53,8 +53,8 @@ function Projects() {
               isBlog={false}
               title="Pizza Booking"
               description="The Popularity of food delivery apps is increasing presently as they offer usres to  quickly and conveniently ordering food directly to their home or office from their favourite restaurants"
-              glink="https://github.com/Kirans05/pizza-app-fron-end-2022"
-              nlink="https://pizza-app-2022.netlify.app/"
+              glink="https://github.com/Kirans05/pizza-ecommerce-frontend"
+              nlink="https://pizza-ecommerce-website.netlify.app/"
             />
           </Col>
 
@@ -64,8 +64,8 @@ function Projects() {
               isBlog={false}
               title="Shoe Ecommerce Website"
               description="This is your place for athletic and easygoing shoes for the entire family from many name brands. You’ll discover styles for ladies, men and children from Top Most brands"
-              glink="https://github.com/Kirans05/shoe-app-front-end"
-              nlink="https://shoe-app-2022.netlify.app/"
+              glink="https://github.com/Kirans05/Ecommerce-shoe-website-frontEnd"
+              nlink="https://shoe-ecommerce-website.netlify.app/"
             />
           </Col>
 

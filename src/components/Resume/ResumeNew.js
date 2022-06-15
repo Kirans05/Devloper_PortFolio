@@ -6,11 +6,11 @@ import pdf from "../../Assets/../Assets/Soumyajit_Behera-BIT_MESRA.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
-import Kiran_resume from "../../images/kiran_resume.jpeg"
+import Kiran_resume from "../../images/kiran-resume.png"
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:013e6a76-abf6-446d-9c06-e332c3e536ae#pageNum=1";
+  "https://drive.google.com/file/d/1DIvAApHwPT_nLlBKcqoI3BPO0kmPvh9M/view?usp=drivesdk";
 // const resumeLink =
 //   "file:///C:/Users/JYOTHIKA%20S/Downloads/Copy%20of%20Ivory%20Black%20Simple%20Professional%20Digital%20Marketer%20Resume.pdf";
 
@@ -44,7 +44,7 @@ function ResumeNew() {
           <Image src={Kiran_resume} alt="Resume Image" className="d-flex justify-content-center" width={100} />
         </Row>
 
-        <Row style={{ justifyContent: "center", position: "relative" }}>
+        {/* <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
             href={resumeLink}
@@ -54,7 +54,7 @@ function ResumeNew() {
             <AiOutlineDownload />
             &nbsp;Download CV
           </Button>
-        </Row>
+        </Row> */}
       </Container>
     </div>
   );
