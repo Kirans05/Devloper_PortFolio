@@ -8,10 +8,10 @@ import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
-import Chat_logo from "../../images/chat_logo.jpg"
-import Diet_logo from "../../images/diet_logo.jpg"
-import Pizza_logo from "../../images/pizza_logo.jpg"
-import Shoe_logo from "../../images/shoe_logo.jpg"
+import Chat_logo from "../../images/chat_logo.jpg";
+import Diet_logo from "../../images/diet_logo.jpg";
+import Pizza_logo from "../../images/pizza_logo.jpg";
+import Shoe_logo from "../../images/shoe_logo.jpg";
 
 function Projects() {
   return (
@@ -33,6 +33,7 @@ function Projects() {
               description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Chakra-UI. Have features which allows user for realtime messaging."
               glink="https://github.com/Kirans05/Random-chatApp-FrontEnd"
               nlink="https://random-chatapp.netlify.app/"
+              socketio="Socket-io"
             />
           </Col>
 
