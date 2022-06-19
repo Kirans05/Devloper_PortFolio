@@ -10,7 +10,7 @@ import Kiran_resume from "../../images/kiran-resume.png"
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://drive.google.com/file/d/1DIvAApHwPT_nLlBKcqoI3BPO0kmPvh9M/view?usp=drivesdk";
+  "https://drive.google.com/file/d/1EUR25oTlTxcb3swdEXyuYuofrzVRezdT/view?usp=drivesdk";
 // const resumeLink =
 //   "file:///C:/Users/JYOTHIKA%20S/Downloads/Copy%20of%20Ivory%20Black%20Simple%20Professional%20Digital%20Marketer%20Resume.pdf";
 
