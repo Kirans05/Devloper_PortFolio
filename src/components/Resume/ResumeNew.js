@@ -6,11 +6,11 @@ import pdf from "../../Assets/../Assets/Soumyajit_Behera-BIT_MESRA.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
-import Kiran_resume from "../../images/resume-img.jpeg"
+import Kiran_resume from "../../images/newResume.jpeg"
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://drive.google.com/file/d/1LsZytFffUzQ99cdhN-UEMKG1ARkJt_vT/view?usp=drivesdk";
+  "https://drive.google.com/file/d/1OcHi-75wXYcs4y_LaRzni2Na8RxslaOL/view?usp=drivesdk";
 // const resumeLink =
 //   "file:///C:/Users/JYOTHIKA%20S/Downloads/Copy%20of%20Ivory%20Black%20Simple%20Professional%20Digital%20Marketer%20Resume.pdf";
 
