@@ -37,16 +37,7 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={Diet_logo}
-              isBlog={false}
-              title="Diet Suggestion"
-              description="Diet and nutrition app is a type of nutrition tracking app that helps users lose weight, be healthy, and get stronger."
-              glink="https://github.com/Kirans05/diet-frontEnd"
-              nlink="https://diet-suggestion-2022.netlify.app/"
-            />
-          </Col>
+          
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -67,6 +58,17 @@ function Projects() {
               description="This is your place for athletic and easygoing shoes for the entire family from many name brands. You’ll discover styles for ladies, men and children from Top Most brands"
               glink="https://github.com/Kirans05/Ecommerce-shoe-website-frontEnd"
               nlink="https://shoe-ecommerce-website.netlify.app/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Diet_logo}
+              isBlog={false}
+              title="Diet Suggestion"
+              description="Diet and nutrition app is a type of nutrition tracking app that helps users lose weight, be healthy, and get stronger."
+              glink="https://github.com/Kirans05/diet-frontEnd"
+              nlink="https://diet-suggestion-2022.netlify.app/"
             />
           </Col>
 
